@@ -3,8 +3,8 @@
 
 **My projects interests for UP206A:**
   * Proximity of affordable housing to employment opportunities in a local or regional context
-  * The effect of density or other features of new urbanism on a variety of issues inuluding health outcomes, wages, and resident turnover 
-  * Usability of city and county services for those experiencing homelesness
-  * Immediate and long-term effects of sports infrastruture on local communities e.g. new pro sports stadiums, Olympic host cities 
+  * The effect of density or other features of new urbanism on a variety of issues including but not limited to health outcomes, wage changes, demographic changes, and resident turnover 
+  * Usability of city and county services for those experiencing homelessness
+  * Immediate and long-term effects of sports infrastructure on local communities e.g. new pro sports stadiums, Olympic host cities 
   * Basically anything including some combination of local or regional economic development, neighborhood change, equity, health outcomes, affordable housing, homelessness, or migration patterns
   * *The geographic scale of these project ideas are on a local or regional scale and can be either domestic or international* 
