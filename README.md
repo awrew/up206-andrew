@@ -1,5 +1,5 @@
 # up206-andrew
-**About Me:** I'm a 2022 Masters of Urban and Regional Planning (MURP) candidate at UCLA focusing on community and regional economic development. My research interests are in the conditions that create sustainable, economically vibrant, and equitable communities. I have or am currently taking classes in grahic design with Adobe Cloud, regional economic development, GIS, and transportation and land use. If you are interested in collaborating, contact me at awwd.williams@gmail.com. 
+**About Me:** I'm a 2022 Masters of Urban and Regional Planning (MURP) candidate at UCLA focusing on community and regional economic development. My research interests are in the conditions that create sustainable, economically vibrant, and equitable communities. I have or am currently taking classes in grahic design using Adobe Cloud, regional economic development, GIS, and transportation and land use. If you are interested in collaborating, contact me at awwd.williams@gmail.com. 
 
 **My projects interests for UP206A:**
   * Proximity of affordable housing to employment opportunities in a local or regional context
